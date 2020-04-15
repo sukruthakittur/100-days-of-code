@@ -4,9 +4,11 @@
 
 **Project**:  Mini Greenhouse to house seeds for germination. 
 
-**Today's Progress**: Digged up my old Raspberry Pi 3. Ordered the SD card that I was missing for the Pi.  
+**Today's Progress**: Digged up my old Raspberry Pi 3. Checked out code for sensors. Ordered the SD card that I was missing for the Pi.  
 
 **Thoughts:** Commitment to work on something is a big step towards accomplishing anything.
+
+**Tomorrow:** Research Soil Sensors/Analog to Digital Converters
 
 
 ### Day 2: April 16th, 2020
