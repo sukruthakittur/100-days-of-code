@@ -13,7 +13,7 @@
 
 ### Day 2: April 16th, 2020
 
-**Today's Progress**:   
+**Today's Progress**:  Researched on how to convert analog input to digital input so I can use my existing soil sensor.
 
 **Thoughts:** 
 
